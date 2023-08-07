@@ -1,0 +1,1 @@
+# Hướng dấn cấu hình Google Shop cho wordpress
