@@ -1,0 +1,9 @@
+name: DAKIA Marketing
+markdown: kramdown
+kramdown:
+  input: GFM
+  html_to_native: true
+  hard_wrap: false
+baseurl: /
+
+theme: jekyll-theme-cayman
